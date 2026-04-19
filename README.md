@@ -15,6 +15,7 @@
 - Learning programming step by step  
 - Focus: improving coding skills  
 - Goal: become better developer  
+- I'm 14 Years Old.
 
 ---
 
